@@ -1,0 +1,95 @@
+📝 EJERCICIO 1: MARCAS
+1. Asegúrate de estar en modo normal.
+2. Utiliza `m` para agregar marcas del 1 al 6 en cada título de película.
+3. Utiliza ` ' ` para navegar entre cada uno de los títulos de películas.
+
+--------------------------------------------------------
+
+# 2001: A Space Odyssey
+
+Una misteriosa estructura monolítica aparece en la Tierra en tiempos prehistóricos, influenciando la evolución humana.
+Milenios después, otra es descubierta en la Luna, lo que desencadena una misión tripulada hacia Júpiter a bordo de la nave Discovery One.
+
+Durante el viaje, el sistema de inteligencia artificial HAL 9000 comienza a comportarse de forma errática,
+poniendo en peligro a la tripulación. La película explora temas como la inteligencia artificial,
+la evolución humana y el contacto con entidades superiores a través de un lenguaje visual y narrativo profundamente simbólico.
+--------------------------------------------------------
+
+# Blade Runner 
+
+En un futuro distópico, la Tierra está superpoblada, contaminada y gobernada por grandes corporaciones.
+Los replicantes, androides casi indistinguibles de los humanos, son utilizados para trabajos forzados fuera del planeta,
+pero su presencia en la Tierra es ilegal.
+
+Rick Deckard, un blade runner, es llamado para "retirar" a cuatro replicantes rebeldes que han regresado a la Tierra.
+Mientras los persigue, se enfrenta a dilemas sobre lo que significa ser humano, difuminando las líneas entre lo biológico y lo artificial.
+--------------------------------------------------------
+
+# The Matrix
+
+Thomas Anderson, alias Neo, lleva una doble vida como programador y hacker.
+Todo cambia cuando descubre que la realidad que conoce es una simulación creada por máquinas para subyugar a la humanidad.
+
+Guiado por Morfeo y Trinity, Neo despierta al mundo real y se convierte en la pieza clave en una guerra por la liberación de la mente humana.
+La película mezcla filosofía, acción y tecnología con una estética icónica.
+--------------------------------------------------------
+
+# Alien
+
+La tripulación de la nave comercial Nostromo responde a una señal de socorro proveniente de un planeta desconocido.
+Al investigar, uno de los miembros es atacado por una criatura parasitaria.
+
+El verdadero terror comienza cuando el alienígena emerge y comienza a cazar a la tripulación uno por uno dentro de la nave.
+Con una atmósfera claustrofóbica y un diseño de criatura inolvidable, esta cinta redefinió el horror en el espacio.
+--------------------------------------------------------
+
+# Terminator 2: Judgment Day
+
+Diez años después de los eventos del primer film, un nuevo Terminator es enviado al pasado,
+esta vez para proteger a John Connor, el futuro líder de la resistencia humana.
+
+Mientras huyen del implacable T-1000, un androide de metal líquido,
+John y su madre Sarah intentan evitar el surgimiento de Skynet, la inteligencia artificial que desencadenará el apocalipsis nuclear.
+--------------------------------------------------------
+
+# Inception
+
+Dom Cobb es un ladrón especializado en robar secretos del subconsciente mientras la gente sueña.
+Su nueva misión no es robar una idea, sino implantar una: la "incepción".
+
+A medida que se sumergen en capas cada vez más profundas del sueño, la frontera entre realidad y ficción se difumina peligrosamente,
+cuestionando la percepción y el control sobre la mente.
+
+
+
+📝 EJERCICIO 2: MARCAS (NAVEGACIÓN A POSICIÓN EXACTA)
+1. Asegúrate de estar en modo normal
+2. Posiciona el cursor sobre cada una de las cajas
+3. Por cada caja agrega una marca con la letra correspondiente.
+4. Una vez que tengas todas las marcas creadas, utiliza ` para navegar a la posición exacta donde se creó cada marca.
+
+-----[a]----------------------------------------------------
+-----------------------------------[b]----------------------
+-[c]--------------------------------------------------------
+---------------------------------------------------[d]------
+--------[e]-----------------------[f]-----------------------
+---------------------[g]------------------------------------
+-------------------------------------------[h]--------------
+-------------[i]--------------------------------------------
+
+
+
+📝 EJERCICIO 3: MARCAS GLOBALES
+1. Asegúrate de estar en modo normal
+2. Utiliza `mA` para agregar la marca global A en el 'EJERCICIO 3'
+3. Abre el archivo de 06_navegación_lineas.txt
+4. Navega al 'EJERCICIO 1' y agrega la marca global B 
+5. Navega entre la marca A y la marca B utilizando `'A` y `'B`
+
+
+
+📝 EJERCICIO 4: BORRAR MARCAS
+1. Utiliza el comando `:marks` para ver las marcas actuales.
+2. Borra la marca A y B
+3. Borra las marcas locales a-z
+4. Borra las marcas locales 1-9

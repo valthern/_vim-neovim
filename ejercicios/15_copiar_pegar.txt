@@ -1,0 +1,77 @@
+📝 EJERCICIO 1
+1. Utiliza `yiw` para copiar: Manzanas.
+2. Pega el contenido copiado dentro de los paréntesis.
+
+Mi fruta favorita son las () y las uvas.
+
+
+
+📝 EJERCICIO 2
+1. Utiliza `yi(` para copiar el contenido dentro de los paréntesis: (salir a caminar).
+2. Pega el contenido copiado dentro de los paréntesis.
+
+Los fines de semana me gusta () y ver películas.
+
+
+
+📝 EJERCICIO 3
+1. Utiliza `yi"` para copiar el contenido dentro de las comillas: "Top Gun"
+2. Pega el contenido copiado dentro de los paréntesis
+
+Mis películas favoritas son Interestellar y ().
+
+
+
+📝 EJERCICIO 4
+1. Utiliza `yy` para copiar la siguiente línea:
+
+### VIM ES INCREÍBLE ###
+
+2. Utiliza `10p` para pegarla 10 veces debajo de esta línea
+
+
+
+📝 EJERCICIO 5
+1. Por cada línea utiliza `Y` para copiar el mensaje desde las comillas ' " '
+2. Pega el mensaje en las líneas correspondiente
+
+1. "VIM ES FÁCIL"
+2. "VIM ES RÁPIDO"
+3. "VIM ES COOL"
+
+MENSAJE 1: 
+MENSAJE 2: 
+MENSAJE 3: 
+
+
+
+📝 EJERCICIO 6
+1. Copia la siguiente línea
+Hola, mi nombre es Carlos, me gusta VIM
+
+2. Utiliza `P` para pega la línea antes de la línea punteada
+
+---------------------------------------
+
+
+
+📝 EJERCICIO 7
+Utiliza `5yy` para copiar las siguientes 5 líneas
+
+LÍNEA 1
+LÍNEA 2
+LÍNEA 3
+LÍNEA 4
+LÍNEA 5
+
+2. Pega las líneas copiadas debajo:
+
+
+
+📝 EJERCICIO 8
+1. Por cada línea utiliza `dt` para borrar la primera frase.
+2. Pega la frase borrada al final de cada mensaje.
+
+Mi nombre es Carlos - ¿Cuál es tu nombre?: 
+Tengo 29 años . ¿Cuál es tu edad?: 
+NEOVIM # ¿Cuál es tu editor de código favorito?

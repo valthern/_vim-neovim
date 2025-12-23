@@ -1,0 +1,49 @@
+📝 EJERCICIO 1: NAVEGACIÓN BÁSICA
+1. Asegúrate de estar en modo normal
+2. Utilizando las teclas `h j k l` posiciona el cursor dentro de la caja [1], luego la caja [2], caja [3], etc
+
+[1] _____ [2] ___________ [4] _________ [3] __________ [8] ________ [2] _______ [10] ______ [12] _____ 
+[5] __________ [7] _______________ [6] ______________ [4] _________________ [9] _____________ [11] ___
+
+
+
+📝 EJERCICIO 2: NAVEGACIÓN A INICIO Y FINAL DE LÍNEAS
+1. Asegúrate de estar en modo NORMAL
+2. De forma ordenada posiciona el cursor sobre cada uno de los números.
+	- Utiliza: `h j k l` 
+	- Agiliza el movimiento con: `0`, `$` y `^`
+
+[1] ___________________________________________________________________ [2]
+      [4] ___________________________________________________________________ [3]
+[5] ___________________________________________________________________ [6]
+      [8] ___________________________________________________________________ [7]
+[9] ___________________________________________________________________ [10]
+
+
+
+📝EJERCICIO 3: ENCUENTRA EL TESORO - VIM MOTIONS BÁSICOS
+- Sigue las instrucciones para encontrar en donde se encuentra el tesoro.
+- Utiliza motions para agilizar el movimiento, ejemplos: `2h 3j 4k 5l` 
+
+1. Posiciona tu cursor sobre el número 0
+2. Avanza 5 caracteres hacia la derecha con `5l`
+3. Baja 3 líneas con `3j`
+4. Avanza 20 caracteres hacia la derecha con `20l`
+5. Sube 2 líneas con `2k`
+6. Muévete 7 caracteres hacia la izquierda con `7h`
+7. Baja 4 líneas con `4j`
+8. Avanza 10 caracteres hacia la derecha con `10l`
+9. Avanza otros 10 caracteres hacia la derecha con `10l`
+10. Sube 3 líneas con `3k`
+
+	MAPA DEL TESORO:
+	0____T________F______S_______G_______R_____
+	_________E________M______I______H__________
+	___D_____Z____N________T________K_____X____
+	_____O____________A______V_________J_______
+	___________B_______________________________
+	___C_____Y________Z_________W_________P____
+	_M___________O__________Q________L_____U___
+
+¿En qué letra se encuentra el tesoro?
+Escribe la respuesta: X 

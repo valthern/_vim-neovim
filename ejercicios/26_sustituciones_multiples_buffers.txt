@@ -1,0 +1,9 @@
+📝 EJERCICIO
+NOTA: Asegurate de abrir este archivo de texto en otro editor para que no pierdas las instrucciones mientras las sigues.
+
+1. Crear dos archivos de texto "ejercicios/26_uno.txt" y `ejercicios/26_dos.txt`.
+2. Navega al archivo uno.txt y agrega el texto "ARCHIVO UNO" y debajo 10 líneas de "HOLA MUNDO"
+2. Navega al archivo dos.txt y agrega el texto "ARCHIVO DOS" y debajo 10 líneas de "HOLA MUNDO"
+3. Asegurarse de tener solamente los 2 buffers abiertos.
+4 Sustituye "MUNDO" por la palabra "CARLOS" en ambos con el comando `:bufdo %s/MUNDO/CARLOS/gc` 
+

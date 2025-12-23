@@ -1,0 +1,42 @@
+📝 EJERCICIO 1
+1. Utiliza el modo VISUAL LINE para seleccionar las 3 líneas de código
+2. Borra las líneas seleccionadas utilizando `d`
+
+<div>
+	<h1>HOLA MUNDO</h1>
+</div>
+
+3. Pega las etiquetas que borraste dentro de la etiqueta <main>
+
+<main>
+</main>
+
+3. Utiliza el modo VISUAL LINE para seleccionar el bloque de código que acabas de pegar.
+4. Utiliza `>>` para corregir la identación del <div> y el <h1>.
+
+
+
+📝 EJERCICIO 2
+1. Utiliza el modo VISUAL LINE para seleccionar la CAJA 1.
+2. Utiliza `d` para eliminar la caja 
+3. Utiliza `p` para pegar la caja antes que las demás.
+4. Repite el proceso y ordena las cajas del 1 al 4
+
+
+-----------
+| CAJA 4: |
+-----------
+
+-----------
+| CAJA 2: |
+-----------
+
+-----------
+| CAJA 1: |
+-----------
+
+-----------
+| CAJA 3: |
+-----------
+
+

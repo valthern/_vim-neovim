@@ -1,0 +1,111 @@
+📝 EJERCICIO 1
+
+1. Posiciona el cursor entre las líneas punteadas.
+2. Utiliza `qa` para comenzar a grabar un macro en el register “a.
+3. Escribe la frase "Hola Mundo".
+4. Utiliza `<Esc>` para volver al modo normal.
+5. Utiliza `o` para agregar una nueva línea debajo
+6. Utiliza `<Esc>` para volver al modo normal.
+7. Utiliza `q` para dejar de grabar el macro.
+8. Utiliza `@a` para ejecutar el macro.
+9. Utiliza `@@` para ejecutar otra vez el macro.
+10. Utiliza `5@a` para ejecutar el macro 5 veces.
+
+---------------------------
+
+---------------------------
+
+
+
+📝 EJERCICIO 2:
+Elimina la frase entre paréntesis de cada línea
+
+1. Posiciona el cursor sobre la primera frase.
+2. Comienza a grabar un macro con `qb`.
+3. Utiliza `f(` para encontrar paréntesis de apertura.
+4. Ejecuta `da(` para eliminar la frase dentro del paréntesis.
+5. Borra el espacio sobrante con `x`.
+6. Baja una línea con `j`.
+7. Posiciona el cursor el inicio de la línea con `0`.
+8. Para la grabación del macro con `q`.
+9. Aplica el macro recién grabado al rango de líneas 35 a 43 con el comando `:35,43normal @b`
+
+------------------------------------------------------------------------
+El cielo estaba despejado (sin una sola nube) durante toda la tarde.
+Caminamos por el bosque (con mucho cuidado) para no perdernos.
+La reunión fue cancelada (por falta de quorum) a último momento.
+Compré pan, leche y (sin pensarlo mucho) un pastel de chocolate.
+Me contó toda la historia (aunque no quería) sin omitir detalles.
+Nos encontramos (casi de milagro) en la estación central.
+El libro estaba viejo (pero bien conservado) y lleno de anotaciones.
+Le pidió disculpas (de corazón) por lo que había dicho.
+La película (que ya habíamos visto) nos volvió a emocionar.
+Salimos temprano (para evitar el tráfico) y llegamos sin contratiempos.
+------------------------------------------------------------------------
+
+
+
+📝 EJERCICIO 3 
+1. Utiliza `guu` para transformar el arreglo de nombres a minúsculas.
+2. Posiciona el cursor sobre las comillas del primer elemento (juan).
+3. Utiliza `qc` para comenzar a grabar un macro en el register "c.
+4. Navega un carácter a la derecha con `l`
+5. Transforma el carácter a mayúsculas con `jUl`
+6. Salta a la siguiente palabra con `W`
+7. Para de grabar el macro con `q`
+8. Ejecuta el macro con `@c` para cambiar el siguiente nombre.
+9. Utiliza `@@` para ejecutar el último macro para el resto de elementos.
+
+const nombres = ['JuAn', 'MARía', 'PeDro', 'lUIsA', 'ROsa', 'AnDrÉs', 'caRLos', 'BeaTrIz', 'eRiCk', 'ARmANdo'];
+
+
+
+📝 EJERCICIO 4: TRANSFORMAR PALABRAS EN ETIQUETAS DE HTML
+
+1. Posiciona el cursor en la primera palabra (header).
+2. Utiliza `qd` para comenzar a grabar un macro en el register “d.
+3. Cambia al modo INSERTAR y escribe "<" al inicio de la línea.
+4. Regresa al modo NORMAL con `ESC`
+5. Utiliza `l` para posicionar el cursor sobre la primera letra de la palabra.
+6. Copia la palabra utilizando `yiw`.
+7. Utiliza `A` para cambiar al modo INSERTAR al final de la línea.
+8. Escribe "></" para finalizar la etiqueta de apertura y abrir la etiqueta de cierre.
+9. Regresa al modo NORMAL con `ESC`.
+10. Pega la palabra copiada anteriormente con 'y'.
+11. Utiliza `a` para cambiar al modo INSERTAR después del cursor.
+12. Cierra la etiqueta escribiendo ">".
+13. Regresa al modo NORMAL con `ESC`.
+14. Baja a la siguiente línea con `j`.
+15. Navega al inicio de la línea con `0`
+16. Para de grabar el macro con `q`
+17. Ejecuta el macro para las siguientes 3 líneas con `3@d`
+
+------
+HEADER
+MAIN
+DIV
+FOOTER
+------
+
+
+
+📝 EJERCICIO 5: EDITAR UN MACRO
+1. Utiliza `"dp` para pegar el macro "d en la siguiente línea:
+
+
+2. Utiliza `I` para cambiar al modo INSERTAR al inicio de la línea.
+3. Escribe "gUU" para agregar el cambio de mayúsculas al inicio del macro.
+4. Regresa al modo NORMAL con `ESC`.
+5. Guarda el macro editado en el register "d utilizando `"dyy`
+6. Posiciona el cursor al inicio de la línea de la palabra (header).
+7. Ejecuta el macro 4 veces con `4@d`
+
+------
+header
+main
+div
+footer
+------
+
+
+

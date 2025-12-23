@@ -1,0 +1,80 @@
+📝 EJERCICIO 1
+1. Utiliza `dd` para borrar la siguiente línea:
+
+-SOY UNA LÍNEA DE TEXTO QUE VA A SER BORRADA-
+
+2. Utiliza el comando `:reg` para ver en que registros se guardó.
+3. Utiliza el comando `:reg "` para verificar su contenido.
+4. Utiliza `"0p` para pegar el contenido del register "0 entre las líneas punteadas:
+
+-----------------------------
+
+-----------------------------
+
+
+📝 EJERCICIO 2
+1. Utiliza `yy` para copiar la siguiente línea:
+
+-SOY UNA LÍNEA DE TEXTO QUE VA A SER COPIADA-
+
+2. Utiliza el comando `:reg 0` para verificar su contenido.
+4. Utiliza `"0p` para pegar el contenido del register "0 entre las líneas punteadas:
+
+-----------------------------
+
+-----------------------------
+
+
+
+📝 EJERCICIO 3
+1. Utiliza `dd` para borrar línea por línea de la siguiente lista:
+
+TEXTO UNO
+TEXTO DOS
+TEXTO TRES
+TEXTO CUATRO
+TEXTO CINCO
+TEXTO SEIS
+TEXTO SIETE
+TEXTO OCHO
+TEXTO NUEVE
+
+2. Utiliza el comando `:reg` para ver en que registers se guardaron los textos.
+3. Utiliza los registers `"9p` al `"1p` para pegar las líneas borradas entre las líneas punteadas:
+
+-----------------------------
+
+-----------------------------
+
+
+
+📝 EJERCICIO 4
+1. Abre tu navegador web, busca un texto y cópialo.
+2. Utiliza el comando `reg *` para verificar si el texto se guardó en el portapapeles. 
+3. Utiliza `"*p` para pegar el contenido del portapapeles dentro de las líneas punteadas:
+
+-----------------------------
+
+-----------------------------
+
+
+
+📝 EJERCICIO 5
+1. Utiliza `"ayy` para guardar en el register `"a` la variable_1
+2. Utiliza `"byy` para guardar en el register `"b` la variable_2
+3. Utiliza `"cyy` para guardar en el register `"c` la variable_3
+4. Utiliza el comando `:reg abc` para verificar el contenido de los registers "a", "b" y "c"
+
+$variable_1 = 'uno';
+$variable_2 = 'dos';
+$variable_3 = 'tres';
+
+5. Utiliza `"ap`, `"bp` y `"cp` para pegar el contenido de los register "a", "b" y "c" dentro de las líneas punteadas:
+
+-----------------------------
+
+-----------------------------
+
+
+
+

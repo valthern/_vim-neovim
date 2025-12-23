@@ -1,0 +1,13 @@
+📝 EJERCICIO: HOLA MUNDO EN NEOVIM
+
+INSTRUCCIONES:
+1. Abre la terminal
+2. Navega a la carpeta de `curso_neovim/ejercicios`
+3. Inicia neovim
+4. Crea un archivo llamado `readme.txt` utilizando el comando `:e` 
+5. Cambia al modo insertar y escribe: "LEAVE ME HERE"
+6. Guarda el archivo
+7. Sal de neovim
+8. Abre el archivo `hola_mundo.txt` y escribe tu nombre
+9. Guarda el archivo y sal de neovim
+10. En tu terminal haz un listado de los archivos dentro de la carpeta `curso_neovim` y revisa que se encuentren `hola_mundo.txt` y `readme.txt`

@@ -1,0 +1,18 @@
+📝 EJERCICIO: COMANDOS DE TERMINAL
+- Estos ejercicios están pensados para que practiques los diferentes comandos básicos para trabajar desde una terminal.
+- Puedes utilizar la hoja de comandos para resolver este ejercicio.
+
+INSTRUCCIONES:
+1. Abre la terminal
+2. Navega a la raíz de tu usuario
+3. Navega a tu carpeta de documentos
+3. Navega a la carpeta llamada `curso_neovim` (la que descargaste al inicio del curso)
+5. Crea un nuevo archivo llamado `hola_mundo.txt`
+6. Crea un nuevo archivo llamado `borrar.txt`
+7. Crea una nueva carpeta llamada `Ejemplo`
+8. Haz un listado de archivos para verificar que se encuentren los archivos `hola_mundo.txt`, `borrar.txt` y la carpeta `Ejercicios`
+9. Mueve el archivo de `borrar.txt` a la carpeta de `Ejemplo/`
+10. Accede a la carpeta de `Ejemplo`
+11. Verifica que el archivo de borrar.txt se encuentre dentro de la carpeta `Ejemplo/`
+12. Borra el archivo de `borrar.txt`
+13. Navega de regreso a la carpeta de `curso_neovim`

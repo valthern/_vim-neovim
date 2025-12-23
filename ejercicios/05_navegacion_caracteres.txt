@@ -1,0 +1,51 @@
+📝 EJERCICIO 1
+Utiliza `f` para posicionar el cursor sobre cada una de las letras de forma ordenada.
+
+[a]-----[b]-----[c]-----[d]-----[e]-----[f]-----[g]-----[h]-----[i]
+
+
+📝 EJERCICIO 2
+Posiciona tu cursor sobre cada uno de los números de forma ordenada utilizando `f` y `F`.
+
+[1]-----[3]-----[2]-----[6]-----[4]-----[5]-----[9]-----[7]-----[8]
+
+
+📝 EJERCICIO 3
+Navega de forma ordenada a cada X y remplázala por el número correspondiente para seguir la secuencia de números.
+
+[1]-----[x]-----[x]-----[4]-----[x]-----[x]-----[7]-----[8]-----[x]
+
+
+
+📝 EJERCICIO 4
+1. Posiciona tu cursor al inicio de la línea
+2. Busca la primera [x] utilizando `f`
+3. Utiliza `;` para saltar de caja en caja hasta llegar a la última [x]
+4. Al llegar al final regresa a la primera línea utilizando `,`
+
+-----[x]-----[x]-----[x]-----[x]-----[x]-----[x]-----[x]-----[x]-----[x]-----
+
+
+📝 EJERCICIO 5 
+1. Posiciónate al final de la línea.
+2. Utiliza `Fx` para navegar de derecha a izquierda a la siguiente "x".
+3. Remplaza la letra para completar la secuencia de numeros.
+
+[1]-----[x]-----[3]-----[x]-----[5]-----[x]-----[7]-----[x]-----[9]
+
+
+
+📝 EJERCICIO 6
+1. Posiciónate al inicio de la línea
+2. Utiliza `t` para posicionar el cursor un carácter antes de la primera letra de cada palabra
+
+   !rojo    @azul    #verde    $amarillo    %rosa    ^blanco
+
+
+
+📝 EJERCICIO 7
+1. Posiciónate al final de la línea sobre el carácter `;`
+2. Utiliza `T` para navegar de derecha a izquierda y posicionarte antes de la última letra de cada palabra
+3. Agrega `;` al final de cada palabra
+
+   .rojo    .azul    .verde    .amarillo    .rosa    .blanco;

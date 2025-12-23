@@ -1,0 +1,35 @@
+📝 EJERCICIO 1
+1. Utiliza `Ctrl-w s` para crear una nueva ventana horizontal.
+2. Utiliza `Ctrl-w v` para crear una nueva ventana vertical.
+3. Utiliza `Ctrl-w h` para cambiar a la ventana izquierda.
+4. Abre el archivo de "26_uno.txt" ejecutando el comando `:e ejercicios/26_uno.txt`.
+5. Utiliza `Ctrl-w l` para cambiar a la ventana derecha.
+6. Abre el archivo de "26_dos.txt" ejecutando el comando `:e ejercicios/26_dos.txt`.
+7. Escribe al final del documento la frase: "FIN DEL DOCUMENTO DOS".
+8. Utiliza `Ctrl-w h` para cambiar a la ventana izquierda.
+9. Escribe al final del documento la frase: "FIN DEL DOCUMENTO UNO".
+10. Guarda todos los buffers con el comando `:wa`.
+11. Cierra la ventana actual (26_uno.txt) con el comando `:q` (nota, esto solo cierra la ventana, no cierra el buffer).
+12. Cierra la ventana (26_dos.txt) con el comando `:q` (nota, esto solo cierra la ventana, no cierra el buffer).
+13. Ejecuta el comando `:ls` para verificar la lista de buffers.
+14. Cierra los buffers de 26_uno.txt y 26_dos.txt con los comandos `bd {numero}`.
+
+
+
+📝 EJERCICIO 2
+1. Utiliza el comando `:sp ejercicios/26_uno.txt` para crear una ventana horizontal y abrir el archivo "26_uno.txt".
+2. Utiliza el comando `:vs ejercicios/26_dos.txt` para crear una ventana vertical y abrir el archivo "26_dos.txt".
+3. Utiliza `Ctrl-w k` para cambiar a la ventana de arriba.
+4. Utiliza `Ctrl-w +` 7 veces para incrementar el alto de la ventana 7 líneas.
+5. Utiliza `Ctrl-w -` 2 veces para disminuir el alto de la ventana 2 líneas.
+6. Utiliza `Ctrl-w j` para cambiar a la ventana de abajo.
+7. Utiliza `Ctrl-w >` 7 veces para incrementar el ancho de la ventana.
+8. Utiliza `Ctrl-w <` 2 veces para disminuir el ancho de la ventana.
+9. Utiliza `Ctrl-w _` para maximizar el alto de la ventana.
+10. Utiliza `Ctrl-w =` para hacer todas las ventanas del mismo tamaño.
+11. Ejecuta el comando `:windo :%s/HOLA/SALUDOS` para cambiar la palabra "HOLA" por "SALUDOS" en todas las ventanas abiertas.
+12. Navega a la ventana del archivo 26_uno.txt y guarda los cambios con `:w`
+13. Cierra el buffer con `bd`
+14. Navega a la ventana del archivo 26_dos.txt y guarda los cambios con `:w`
+15. Cierra el buffer con `bd`
+16. Ejecuta el comando `:ls` para ver la lista de buffers y comprobar que solo quedo abierto el buffer del archivo "26_ventanas.txt".

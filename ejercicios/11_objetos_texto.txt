@@ -1,0 +1,185 @@
+📝 EJERCICIO 1
+Utiliza `diw` o `daw` para eliminar las palabras que encuentren dentro de paréntesis.
+Nota: Asegúrate de no dejar espacios dentro de los paréntesis (para esos casos usa `daw`)
+
+(Perro )
+(Gato)
+( Ratón)
+(León)
+(Cocodrilo )
+(Serpiente)
+( Araña)
+(Zorro)
+
+
+
+📝 EJERCICIO 2
+Utiliza `ciw` o `caw` para corregir las siguientes frases:
+
+"Unna computaaad0ra no hace looo que quiiieres, hace lo queee le dicess."
+"Los buugs no dess4aparecen, se esscond3n mejooor."
+
+
+
+📝 EJERCICIO 3
+Utiliza `diW` o `daW` para eliminar las palabras que no sean un día de la semana.
+
+const días = [ 'Lunes', 'Enero', 'Martes', 'Febrero', 'Miércoles', 'Marzo', 'Jueves', 'Abril', 'Viernes', 'Mayo', 'Sábado', 'Junio', 'Domingo' ];
+
+
+
+📝 EJERCICIO 4
+Utiliza `ciW` o `caW` para cambiar los elementos mal escritos y ponerlos en minúsculas
+
+1_uno 2_dOoOs 3_tRreS 4_CUaTRRrO 5_CINnCO 6_seis 7_siete 8_OCcHOO 9_nueve
+
+
+
+📝 EJERCICIO 5
+Utiliza `ciW` o `caW` para cambiar los elementos mal escritos y ponerlos en minúsculas
+
+1_uno 2_dOoOs 3_tRreS 4_CUaTRRrO 5_CINnCO 6_seis 7_siete 8_OCcHOO 9_nueve
+
+
+
+📝 EJERCICIO 6 
+Utiliza `das` para borrar las sentencias que se encuentren en mayúsculas
+
+Esta es la primera sentencia. BORRA ESTA SENTENCIA. Esta es la tercera sentencia.
+BORRA ESTA SENTENCIA. Esta es la segunda sentencia. Esta es la tercera sentencia.
+Esta es la primera. Esta es la segunda sentencia. BORRA ESTA SENTENCIA.
+
+
+
+📝 EJERCICIO 7
+Utiliza `dap` para borrar los párrafos que se encuentren en inglés
+
+Había una vez un pequeño pueblo rodeado de montañas verdes donde vivía una niña llamada Luna.
+Cada día, ella exploraba los bosques cercanos, descubriendo flores y escuchando el canto de los pájaros.
+Luna soñaba con aventuras más allá de las colinas que veía desde su ventana.
+
+Once upon a time, there was a small village surrounded by green mountains where a girl named Luna lived.
+Every day, she explored the nearby forests, discovering flowers and listening to the birds’ songs.
+Luna dreamed of adventures beyond the hills she saw from her window.
+
+Un día, mientras caminaba por un sendero desconocido, encontró una puerta antigua hecha de madera y cubierto de enredaderas.
+Con curiosidad, empujó la puerta y se sorprendió al ver un jardín mágico lleno de luces brillantes y criaturas fantásticas.
+Luna decidió entrar y explorar aquel mundo nuevo.
+
+One day, while walking down an unfamiliar path, she found an old wooden door covered in vines.
+Curious, she pushed the door open and was surprised to see a magical garden full of bright lights and fantastic creatures.
+Luna decided to enter and explore this new world.
+
+Pasó horas jugando con hadas y hablando con árboles sabios, hasta que el sol empezó a ocultarse.
+Al despedirse, prometió regresar y cuidar ese lugar especial.
+Desde ese día, Luna supo que su vida estaría llena de magia y secretos por descubrir.
+
+She spent hours playing with fairies and talking to wise trees until the sun began to set.
+When saying goodbye, she promised to return and take care of that special place.
+From that day on, Luna knew her life would be filled with magic and secrets to uncover.
+
+
+
+📝 EJERCICIO 8 
+1. Utiliza `daB` o `da{` para eliminar las dos primeras películas
+2. Utiliza `dd` para borra las ',' sobrantes.
+
+const peliculas = [
+	{
+		titulo: "El Padrino",
+		director: "Francis Ford Coppola",
+		año: 1972,
+		genero: "Crimen",
+		calificacion: 9.2
+	},
+	{
+		titulo: "Titanic",
+		director: "James Cameron",
+		año: 1997,
+		genero: "Romance / Drama",
+		calificacion: 7.9
+	},
+	{
+		titulo: "El Señor de los Anillos: El Retorno del Rey",
+		director: "Peter Jackson",
+		año: 2003,
+		genero: "Fantasía / Aventura",
+		calificacion: 8.9
+	}
+];
+
+
+
+📝 EJERCICIO 9: 
+Utiliza `ciB` o `ci{` para cambiar el segundo objeto del arreglo y agregar tus propios datos.
+
+const personas = [
+	{
+		nombre: 'Carlos',
+		edad: '29',
+		pais: 'México',
+	},
+	{
+		nombre: 'Carlos',
+		edad: '29',
+		pais: 'México',
+	},
+];
+
+
+
+📝 EJERCICIO 10: 
+Utiliza `cib` o `ci(` para cambiar los parámetros de función y escribir tus propios datos.
+
+mostrarSaludo(NOMBRE, APELLIDO);
+registrarUsuario(NOMBRE_USUARIO, CORREO);
+eliminarUsuario(CORREO_USUARIO);
+
+
+
+📝 EJERCICIO 11: 
+Utiliza `di[` para eliminar los elementos del arreglo
+
+const colores = ['rojo', 'azul', 'amarillo', 'verde'];
+const nombres = [ 'Carlos', 'Alejandra', 'Luis', 'María', 'Jorge', 'Lucía', 'Andrés', 'Sofía', 'Diego', 'Valentina' ];
+const frutas = ['manzana', 'naranja', 'pera', 'mango', 'uva'];
+
+
+
+📝 EJERCICIO 12: 
+Utiliza `ci'` para cambiar los valores en mayúscula y escribir tus propios datos
+const usuario = {
+	nombre: 'Carlos',
+	correo: 'correo@correo.com',
+	pais: 'México'
+}
+
+
+
+📝 EJERCICIO 13:
+Sigue las instrucciones de cada uno de los comentarios para corregir la siguiente página web
+
+<!-- Utiliza `ci<` para cambiar la etiqueta a minúsculas.
+<BODY>
+	<main>
+		<!-- Utiliza `dat` para eliminar una de las dos etiquetas duplicadas -->
+		<h1>Bienvenido a mi página web</h1><h1>Bienvenido a mi página web</h1>
+
+		<!-- Utiliza `cit` para cambiar la etiqueta y escribir "Mi nombre es Carlos"-->
+		<h2>INSERTA TU NOMBRE</h2>
+
+		<!-- Utiliza `ci<` para cambiar la etiqueta a minúsculas.
+		<BUTTON>Registrarse</BUTTON>
+	</main>
+
+<!-- Utiliza `ci<` para cambiar la etiqueta a minúsculas.
+<BODY>
+
+
+
+📝 EJERCICIO 14:
+Utiliza `ci'` para cambiar los elementos del arreglo que se encuentren en mayúsculas, conviértelos a minúsculas
+const ciudades = [ 'Tokio', 'PARÍS', 'Nueva York', 'LONDRES', 'Ciudad de México', 'Sídney', 'BUENOS AIRES', 'ROMA', 'Estambul', 'Seúl' ];
+
+
+

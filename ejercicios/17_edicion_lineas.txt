@@ -1,0 +1,73 @@
+📝 EJERCICIO 1
+Utiliza `J` para unificar los arreglos en una sola línea
+
+const nombres = [
+"Luis",
+"Pedro",
+"Guillermo",
+"Lucia",
+"Manuel"
+];
+
+const paises = [
+"México",
+"España",
+"Japón",
+"Estados Unidos",
+"Argentina"
+];
+
+
+
+📝 EJERCICIO 2
+Utiliza `gJ` para juntar las líneas sin agregar espacios
+
+<div>
+Hola Mundo
+</div>
+
+<a 
+	href="https://www.desarrrolloweb.com"
+	target="_blank"
+	class="enlace"
+>
+Hola soy un enlace
+</a>
+
+
+
+📝 EJERCICIO 3
+Utiliza `>>` para corregir el identado del siguiente bloque de código:
+<main>
+<div>
+<h1>Esta es mi página web</h1>
+</div>
+</main>
+
+
+
+📝 EJERCICIO 4
+Utiliza `<<` para corregir, eliminar el identado de las siguientes líneas
+
+Vim es un editor de texto potente y eficiente.
+		Diseñado para desarrolladores y usuarios que buscan rapidez y control total sobre la edición de texto.
+	Su enfoque en el uso del teclado mediante comandos y modos permite realizar tareas complejas con pocas teclas.
+					Aunque su curva de aprendizaje puede ser empinada al principio.
+									Dominar Vim ofrece una experiencia fluida y personalizable que se adapta a cualquier flujo de trabajo.
+
+
+
+📝 EJERCICIO 5
+1. Utiliza el modo visual para seleccionar el bloque de código.
+2. Utiliza `=` para autoidentar las líneas.
+
+function saludo(nombre) {
+					if (!nombre) {
+								console.log("Hola, invitado!");
+				} else {
+						console.log("Hola, " + nombre + "!");
+				}
+}
+
+
+

@@ -1,0 +1,93 @@
+📝 EJERCICIO 1: INSERTAR (ANTES DEL CURSOR)
+1. Posiciona el cursor sobre cada punto de la lista.
+2. Utiliza `i` para entrar en a modo insertar (antes del cursor ) y agregar los números faltantes en el calendario.
+
+1.Enero
+.Febrero
+.Marzo
+4.Abril
+.Mayo
+.Junio
+7.Julio
+.Agosto
+.Septiembre
+.Octubre
+.Noviembre
+12.Diciembre
+
+
+
+📝 EJERCICIO 2: INSERTAR (DESPUÉS DEL CURSOR) 
+1. Navega hasta la primera comilla de cada línea
+2. Utiliza `a` para cambiar a modo insertar (después del cursor) y escribir la respuesta dentro de las comillas.
+
+Nombre: ''
+Profesión: ''
+Comida favorita: ''
+Canción favorita: ''
+Pelicula favorita: ''
+
+
+
+📝 EJERCICIO 3: INSERTAR (INICIO DE LÍNEA) 
+Utiliza `I` para insertar al inicio de cada variable el símbolo '$'
+
+					variable_1 = 'Rojo';
+				variable_2 = 'Azul';
+			variable_3 = 'Amarillo';
+		variable_4 = 'Verde';
+	variable_5 = 'Naranja';
+variable_5 = 'Blanco';
+
+
+
+📝 EJERCICIO 4: INSERTAR (FINAL DE LÍNEA) 
+Utiliza `A` para navegar al final de cada línea y completar el formulario
+
+Hola, mi nombre es:
+Mi color favorito es él:
+El deporte que más me gusta ver es él:
+La canción que más me motiva cuando estoy trabajando es:
+
+
+
+📝 EJERCICIO 5: INSERTAR NUEVA LÍNEA (DEBAJO) 
+Utiliza `o` para Insertar una línea debajo de cada país
+
+México
+Colombia
+Argentina
+España
+Perú
+Venezuela
+Chile
+Guatemala
+Ecuador
+Bolivia
+Cuba
+República Dominicana
+Honduras
+Paraguay
+Nicaragua
+El Salvador
+Costa Rica
+Panamá
+Uruguay
+
+
+
+📝 EJERCICIO 5: INSERTAR NUEVA LÍNEA (ARRIBA) 
+1. Posiciona el cursor en la palabra "Neptuno"
+2. De abajo hacia arriba, utiliza `O` para Insertar una línea antes de cada planeta
+
+Mercurio
+Venus
+Tierra
+Marte
+Júpiter
+Saturno
+Urano
+Neptuno
+
+
+

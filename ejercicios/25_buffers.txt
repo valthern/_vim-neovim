@@ -1,0 +1,16 @@
+📝 EJERCICIO
+NOTA: Asegurate de abrir este archivo de texto en otro editor para que no pierdas las instrucciones mientras las sigues.
+
+1. Ejecuta el comando de `:ls` para asegurarte de tener solamente el buffer del ejercicio actual: "ejercicios/24_buffers.txt".
+2. Si tienes otros buffers en memoria, ejecuta el comando `:%bd` para borrar todos los buffers sin salir de vim. 
+3. Asegurate de tener abierto el archivo del ejercicio actual. Lo puedes abrir con el comando `:e ejercicios/25_buffers.txt`.
+4. Abre los archivos de los ejercicios 23 y 24 con los comandos `:e ejercicios/23_sustituciones.txt` y `:e ejercicios/24_registers.txt`.
+6. Ejecuta el comando `:enew` para crear un nuevo buffer vació.
+7. Ejecuta el comando de `:ls` para revisar la lista de buffers.
+8. Ejecuta el comando `:bd` para borrar el buffer actual.
+9. Ejecuta el comando `:b2` para cambiar al buffer 2.
+10. Ejecuta el comando `:bn` o `:bnext` para cambiar al siguiente buffer.
+11. Ejecuta el comando `:bp` o `:bprevious` para cambiar al anterior buffer.
+12. Ejecuta el comando `:bf` o `:bf` para cambiar al primer buffer.
+13. Ejecuta el comando `:bl` o `:bl` para cambiar al último buffer.
+14. Ejecuta el comando `:wqa` para guardar y cerrar todos los buffers (y salir de vim).

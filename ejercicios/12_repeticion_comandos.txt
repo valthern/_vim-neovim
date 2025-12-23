@@ -1,0 +1,30 @@
+📝 EJERCICIO 1
+1. Posiciona el cursor sobre el primer nombre
+2. Utiliza `da[` para eliminar el nombre y dejar solamente el correo
+3. Baja a la siguiente línea con `j`
+4. Repite el último comando con `.`
+5. Baja y repite el comando para el resto de los elementos.
+
+[José Ramírez] jose.ramirez@correo.com
+[Teresita Palacios] teresita.palacios@correo.com
+[Lucía Torres] lucia.torres@correo.com
+[Andrés Pérez] andres.perez@correo.com
+[Valeria Soto] valeria.soto@correo.com
+[Diego Martínez] diego.martinez@correo.com
+
+
+
+📝 EJERCICIO 2
+1. Posiciona el cursor sobre la primera orden
+2. Navega hasta el primer paréntesis `(`
+3. Utiliza `ci(` para cambiar el estado de la orden a "COMPLETADO"
+4. Baja a la siguiente línea con `j`
+5. Repite el último comando con `.`
+6. Baja y repite el comando para el resto de los elementos.
+
+[ORDEN]: 123-456-789 (EN PROCESO)
+[ORDEN]: 987-654-321 (PENDIENTE)
+[ORDEN]: 456-789-123 (EN PROCESO)
+[ORDEN]: 321-654-987 (PENDIENTE)
+[ORDEN]: 159-753-486 (EN PROCESO)
+[ORDEN]: 741-852-963 (RETRASADO)

@@ -1,0 +1,57 @@
+📝 EJERCICIO 1: NAVEGACIÓN POR PALABRAS
+1. Asegúrate de estar en modo normal
+2. Salta de palabra en palabra utilizando `w`.
+3. Elimina todos los guiones ` - ` y remplázalos por espacios
+
+manzana pera plátano fresa mango kiwi naranja limón sandia melón cereza uva piña papaya granada higo
+
+
+
+📝 EJERCICIO 2: NAVEGACIÓN POR PALABRAS (CON SÍMBOLOS COMO SEPARADOR)
+1. Asegúrate de estar en modo normal
+2. Utiliza `W` para saltar entre palabras, incluyendo guiones.
+3. Antes de cada guion agrega un número
+	Ejemplo: 1-lua 2-javascript 3-typescript etc...
+
+1-lua 2-javascript 3-typescript 4-python 5-php 6-java 7-c 8-cpp 9-ruby 10-go 11-rust 12-kotlin 13-swift 14-perl
+
+
+
+📝 EJERCICIO 3: NAVEGACIÓN POR PALABRAS EN REVERSA
+1. Asegúrate de estar en modo normal
+2. Navega al final de la línea utilizando `$`
+3. Utiliza `b` para saltar por palabras en reversa
+4. Elimina todos los guiones ` - ` y remplázalos por espacios
+
+rojo azul verde amarillo naranja morado rosa negro blanco gris
+
+
+
+📝 EJERCICIO 4: NAVEGACIÓN POR PALABRAS EN REVERSA (CON SÍMBOLOS COMO SEPARADOR)
+1. Asegúrate de estar en modo normal
+2. Navega al final de la línea utilizando `$`
+3. Utiliza `B` para saltar por palabras en reversa (incluyendo guiones)
+4. Antes de cada guion agrega un número
+	Ejemplo: 1-mercurio 2-venus 3-tierra etc ...
+
+1-mercurio 2-venus 3-tierra 4-marte 5-jupiter 6-saturno 7-urano 8-neptuno
+
+
+
+📝 EJERCICIO 5: NAVEGACIÓN A FINAL PALABRA
+1. Asegúrate de estar en modo normal
+2. Utiliza `e` para saltar al final de cada palabra
+3. Corrige el nombre de animal agregando la letra faltante.
+
+LEON TIGRE CEBRA JIRAFA PERRA GATO TORTUGA CABALLO BURRO RATA MURCIELAGO ZORRO LAGARTIJA
+
+
+
+📝 EJERCICIO 6: NAVEGACIÓN A FINAL PALABRA (CON SÍMBOLOS COMO SEPARADOR)
+1. Asegúrate de estar en modo normal
+2. Utiliza `E` para saltar al final de cada variable
+3. Agrega `;` después de cada variable
+
+$variable_1; $variable_2; $variable_3; $variable_4; $variable_5; $variable_6; $variable_7; $variable_8;
+
+

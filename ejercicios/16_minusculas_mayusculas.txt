@@ -1,0 +1,80 @@
+📝 EJERCICIO 1
+Utiliza `~` para alternar los caracteres y corregir la siguiente línea
+
+eN vIM, cAdA tEclA es una hErramIentA y cAda modo, uN unIVerso dE poSiBilIdaDes.
+
+
+
+📝 EJERCICIO 2
+Utiliza `g~~` para alternar entre mayúsculas y minúsculas en las siguientes líneas.
+
+cONST CIUDADES = ["cIUDAD DE mÉXICO", "mADRID", "tOKIO", "nUEVA yORK", "bUENOS aIRES"];
+CONST PAISES = ["mÉXICO", "eSPAÑA", "jAPÓN", "eSTADOS uNIDOS", "aRGENTINA"];
+
+
+
+📝 EJERCICIO 3
+Utiliza `g~w` para transformar a mayúsculas las palabras que se encuentren en minúsculas
+HOLA MUNDO esto ES UNA prueba DE vim
+neovim ES MUY poderoso Y eficiente
+
+
+
+📝 EJERCICIO 4
+Utiliza `g~$` para transformar el resto de cada frase a mayúsculas.
+
+EL SOL BRILLA FUERTE. el viento sopla suave.
+LA PUERTA SE CERRÓ DE GOLPE. nadie dijo una palabra.
+EL TREN PARTIÓ SIN AVISAR. la estación quedó en silencio.
+
+
+
+📝 EJERCICIO 5
+Utiliza `guw` para transformar las palabras mayúsculas a minúsculas
+
+cosnt dias = ['LUNES', 'martes', 'MIERCOLES', 'jueves', 'VIERNES', 'sábado', 'DOMINGO'];
+
+
+
+📝 EJERCICIO 6
+Utiliza `gUw` para transformar las palabras minúsculas a mayúsculas
+
+const estaciones = ["primavera", "VERANO", "otoño", "invierno"];
+
+
+
+
+📝 EJERCICIO 7
+Utiliza `gUU` para transformar cada una de las siguientes líneas a mayúsculas.
+
+select id, nombre, fecha from usuarios where activo = 1;
+insert into productos (precio, stock) values (100, 50);
+update clientes set saldo = saldo + 100 where id = 123;
+
+
+
+📝 EJERCICIO 8
+Utiliza `guu` para transformar las primeras dos líneas a minúsculas:
+
+CONST NOMBRE = "CARLOS";
+CONST CORREO = "CORREO@CORREO.COM";
+
+function saludar() {
+    console.log(`Hola ${nombre} tu correo es: ${correo}`);
+}
+
+
+
+📝 EJERCICIO 9
+1. Utiliza el modo visual para seleccionar el siguiente bloque de código.
+2. Transforma todo el bloque a minúsculas utilizando `gu`.
+
+<DIV CLASS="CONTAINER">
+    <H1>TÍTULO PRINCIPAL</H1>
+    <P>ESTE ES UN PÁRRAFO DE EJEMPLO.</P>
+    <UL>
+        <LI>ELEMENTO 1</LI>
+        <LI>ELEMENTO 2</LI>
+    </UL>
+</DIV>
+

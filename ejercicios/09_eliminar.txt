@@ -1,0 +1,181 @@
+📝 EJERCICIO 1: ELIMINAR CARACTERES
+Utiliza `x` para eliminar los errores en el siguiente texto.
+
+Viim es increííble. Con unos cuantos comaaandos puedes haccer magia en tu códiggggo.
+UUna veez que dominesss vimm la foorma en la que eeescribes ccódigoo cammbiiara para siemppre.
+
+
+
+📝 EJERCICIO 2: ELIMINAR SELECCIONES
+1. Utiliza `v` para seleccionar los párrafos que no se encuentren escritos en español.
+2. Bórralos utilizando `d`.
+
+El 20 de julio de 1969, Neil Armstrong se convirtió en el primer ser humano en caminar sobre la superficie lunar, marcando un momento histórico para la humanidad. La misión Apolo 11 fue el resultado de años de investigación, tecnología avanzada y una intensa carrera espacial entre Estados Unidos y la Unión Soviética.
+
+(English): On July 20, 1969, Neil Armstrong became the first human to walk on the Moon’s surface, marking a historic moment for humanity. The Apollo 11 mission was the result of years of research, advanced technology, and an intense space race between the United States and the Soviet Union.
+
+La transmisión del alunizaje fue vista por más de 600 millones de personas en todo el mundo, convirtiéndose en una de las emisiones televisivas más vistas de la historia. Las palabras de Armstrong, “es un pequeño paso para el hombre, pero un gran salto para la humanidad”, quedaron grabadas para siempre.
+
+(English): The Moon landing was watched by over 600 million people around the world, making it one of the most viewed television broadcasts in history. Armstrong’s words, “That’s one small step for man, one giant leap for mankind,” became legendary.
+
+Los astronautas recolectaron casi 22 kilos de rocas y polvo lunar durante sus caminatas. Estas muestras permitieron a los científicos estudiar la composición de la Luna y obtener pistas sobre su origen y evolución geológica.
+
+(English): The astronauts collected nearly 22 kilograms of lunar rocks and dust during their moonwalks. These samples allowed scientists to study the Moon’s composition and gain clues about its origin and geological evolution.
+
+
+
+📝 EJERCICIO 3: ELIMINAR LÍNEAS
+Utiliza `dd` para borrar todas las líneas que no sean un país.
+
+México
+Bicicleta
+Francia
+Marte
+Italia
+Narnia
+Alemania
+El País de Nunca Jamás
+Chile
+Avión
+Perú
+Winterfell
+Colombia
+Ventormenta
+España
+
+
+
+📝 EJERCICIO 4: ELIMINAR HASTA EL FINAL DE LA LÍNEA
+Utiliza `D` para borrar todas las respuestas del formulario.
+
+1. Nombre: Carlos Arturo
+2. Correo Electrónico: correo@gmail.com
+3. País de nacimiento: México
+4. Comida favorita: Ramen
+5. Género de música favorito: Rock de los 80's
+6. Película favorita: Interestellar
+
+
+📝 EJERCICIO 5: ELIMINAR HASTA EL PRIMER CARÁCTER
+1. El código de la siguiente lista de compras está mal
+2. Utiliza `d^` para borrar los números y dejar solamente la etiqueta '<li>Artículo</li>' por cada línea
+
+<ul>
+	1. <li>Pan</li>
+	2. <li>Leche</li>
+	3. <li>Arroz</li>
+	4. <li>Frutas</li>
+	5. <li>Verduras</li>
+	6. <li>PC GAMING ULTRA INSTINCT: Ryzen 9 7950X3D, RTX 4090, 64 GB DDR5, 2 TB NVMe, fuente 1000W, enfriamiento líquido RGB, gabinete con vidrio templado, monitor 32" 4K 240Hz, teclado mecánico con macros, mouse gamer con 20 botones y soporte para taza.</li>
+</ul>
+
+
+
+📝 EJERCICIO 6: ELIMINAR HASTA EL INICIO DE LA LÍNEA
+1. Posiciona el cursor sobre el número de cada línea
+2. Utiliza `d0` para borrar los símbolos antes de cada número.
+
+!!!!!!!!!!!!!! 1._________________________
+@@@@@@@@@@@@@@ 2._________________________
+############## 3._________________________
+$$$$$$$$$$$$$$ 4._________________________
+%%%%%%%%%%%%%% 5._________________________
+^^^^^^^^^^^^^^ 6._________________________
+&&&&&&&&&&&&&& 7._________________________
+************** 8._________________________
+(((((((((((((( 9._________________________
+
+
+
+📝 EJERCICIO 7: ELIMINAR LÍNEAS
+1. Posiciona el cursor sobre cada una de las líneas enumeradas.
+2. Sigue las instrucciones de cada línea.
+
+I
+------------------------------------------------
+2. ELIMINA ESTA LÍNEA Y LA ANTERIOR (`dk`)
+3. ELIMINA ESTA LÍNEA Y LA SIGUIENTE (`dj`)
+------------------------------------------------
+LOVE
+4. ELIMINA ESTA Y LAS SIGUIENTES 5 LÍNEAS (`d5j`)
+------------------------------------------------
+------------------------------------------------
+------------------------------------------------
+------------------------------------------------
+------------------------------------------------
+VIM
+------------------------------------------------
+------------------------------------------------
+------------------------------------------------
+------------------------------------------------
+------------------------------------------------
+5. ELIMINA ESTA Y LAS ANTERIORES 5 LÍNEAS (`d5k`)
+<3
+
+
+
+📝 EJERCICIO 8: ELIMINAR PALABRAS
+Utiliza `dw` para elimina los caracteres restantes de cada palabra.
+
+manzanaAAAAA, plátanoOOOOOOOO, naranjaAAAA, fresaAAAAAA, mangoOOOO, piñaAAAAA, uvaAAAAA, kiwiIIIII, sandíaAAAA, cerezaAA
+
+
+
+📝 EJERCICIO 9: ELIMINAR PALABRAS EXTENDIDAS
+Utiliza `dW` para eliminar las etiquetas de HTML que se encuentre en mayusculas.
+
+<header></header>, <DIV></DIV>, <section></seciton>, <ARTICLE></ARTICLE>, <ASIDE></ASIDE>, <MAIN><MAIN>, <footer></footer>, 
+
+
+
+📝 EJERCICIO 10: ELIMINAR PALABRAS HACIA ATRÁS
+1. Coloca el cursor sobre el ')' de cada línea
+2. Utiliza `db`, `d2b` y `d2B` para borrar el contenido dentro de los paréntesis
+
+Elimina la última palabra dentro de los paréntesis: (uno dos tres cuatro)
+Elimina las últimas 2 palabras dentro de los paréntesis: (uno dos tres cuatro)
+Elimina las últimas 3 palabras dentro de los paréntesis: (1_uno 2_dos 3_tres 4_cuatro 5_cinco)
+
+
+
+📝 EJERCICIO 11: ELIMINAR HASTA EL FINAL DE PALABRA
+Por cada línea ejecuta las siguientes instrucciones:
+1. Posiciona el cursor sobre el símbolo ' = '
+2. Utiliza `de` para eliminar el contenido de la variable, incluyendo el símbolo de ' = '
+
+variable_1=Pizza;
+variable_2=Hamburguesa;
+variable_3=Sushi;
+variable_4=Pasta;
+variable_5=Tacos;
+variable_6=Ramen;
+variable_7=Asado;
+
+
+
+📝 EJERCICIO 12: ELIMINAR HASTA ANTES DEL PRIMER CARÁCTER DE BÚSQUEDA
+Por cada línea ejecuta las siguientes instrucciones:
+1. Utiliza `df` para borrar todo el texto y dejar solamente Los nombres de cada persona.
+
+TELÉFONO: (000)-111-222-333-555 !Carlos
+TELÉFONO: (000)-111-222-333-555 @Alejandro
+TELÉFONO: (000)-111-222-333-555 #Cesar
+TELÉFONO: (000)-111-222-333-555 $Manuel
+TELÉFONO: (000)-111-222-333-555 %Rafael
+TELÉFONO: (000)-111-222-333-555 ^Rodrigo
+
+
+
+📝 EJERCICIO 13: ELIMINAR HASTA PRIMER CARÁCTER DE BÚSQUEDA
+Por cada línea ejecuta las siguientes instrucciones:
+1. Utiliza `dt` para borrar todo el texto hasta antes de cada símbolo
+
+// -------------------- !variable: valor;
+// -------------------- @variable: valor;
+// -------------------- #variable: valor;
+// -------------------- $variable: valor;
+// -------------------- %variable: valor;
+// -------------------- ^variable: valor;
+
+
+

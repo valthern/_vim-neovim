@@ -1,0 +1,45 @@
+📝 EJERCICIO 1
+1. Utiliza `/` para buscar la palabra "perro" en el cuento
+2. Utiliza `ciw` para cambiar la palabra "perro" por "vim"
+3. Utiliza `n` para buscar las siguientes ocurrencias de "perro"
+4. Por cada ocurrencia de "perro" utiliza `.` para repetir el último comando y remplazar "perro" por "vim"
+5. Limpia la pantalla de ocurrencias con el comando `:noh`
+
+---
+# CUENTO:
+Había una vez un programador llamado Batman que trabajaba en una pequeña empresa de desarrollo web. Aunque todos sus compañeros usaban editores modernos con muchos botones y colores, él prefería algo distinto.
+Desde que descubrió perro, su productividad dio un giro radical. Con tan solo unas teclas, podía hacer en segundos lo que antes le tomaba minutos.
+Pronto, su entorno de trabajo se volvió una danza entre modos, comandos y movimientos precisos.
+
+Un día, su mentor le habló de gato, una versión mejorada y más moderna de perro. Intrigado, Batman decidió probarlo.
+Instaló gato y se sorprendió al ver que todos sus atajos favoritos seguían funcionando, pero ahora podía integrar fácilmente complementos en Lua, usar LSPs y hasta ver sugerencias en tiempo real.
+Fue como descubrir que su vieja bicicleta ahora tenía motor.
+
+Poco a poco, empezó a personalizar su configuración. Escribía su propio init.lua, integraba árboles de archivos, autocompletado, inteligente y temas que hacían su pantalla más agradable.
+Mientras otros luchaban con editores pesados, Batman fluía como el agua entre líneas de código.
+Sus compañeros empezaron a notar que, sin usar el mouse, él editaba, guardaba y buscaba errores con una velocidad impresionante gracias a perro y gato.
+Un día, durante una junta, el jefe le pidió que enseñara su flujo de trabajo.
+Batman proyectó su terminal, y los demás observaron con asombro cómo navegaba entre archivos, buscaba funciones y corregía errores usando solo comandos de gato.
+Cuando terminó, todos querían una copia de su configuración. Sonrió y les pasó un enlace a su repositorio.
+Desde entonces, en esa oficina, comenzaron a escucharse los ecos de teclas rápidas y silenciosas.
+Algunos aún preferían interfaces gráficas, pero muchos descubrieron el poder de perro y gato.
+Y Batman, satisfecho, seguía programando como siempre: sin distracciones, sin ratón… solo él y su teclado.
+
+FIN.
+---
+
+
+
+📝 EJERCICIO 2
+1. Utiliza `/` para buscar la palabra "FIN" en el documento.
+2. Utiliza `?` para buscar la palabra "gato" en el cuento.
+3. Utiliza `ciw` para cambiar la palabra "gato" por "neovim".
+4. Utiliza `n` para buscar las siguientes ocurrencias de "gato".
+5. Por cada ocurrencia de "gato" utiliza `.` para repetir el último comando y remplazar "gato" por "neovim".
+
+
+
+📝 EJERCICIO 3
+1. Posiciona el cursor sobre la siguiente palabra: "Batman"
+1. Utiliza `#` para buscar las ocurrencias (en reversa) de "Batman" en el cuento.
+2. Utiliza `ciw` para cambiar la palabra "Batman" por tu nombre.

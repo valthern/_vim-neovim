@@ -1,0 +1,39 @@
+📝 EJERCICIO 1
+1. Utiliza el modo VISUAL BLOCK para seleccionar la numeración (incluyendo el punto y espacio) de todos los elementos de la lista de compras.
+2. Utiliza `c` para cambiar la selección por el siguiente texto: "- [ ]".
+3. Presiona `ESC` para aplicar los cambios.
+4. Utiliza el modo VISUAL BLOCK para seleccionar todos espacios en blanco dentro de los brackets "[ ]" de todos los elementos.
+5. Utiliza `r` para cambiar el espacio en blanco por la letra "x".
+6. Presiona `ESC` para salir del modo visual.
+
+LISTA DE COMPRAS:
+----------------------------------
+1. [Farmacia] Aspirinas          
+2. [Refrigeradores] Leche        
+3. [Frutas y Verduras] Plátanos  
+4. [Panadería] Pan integral      
+5. [Abarrotes] Arroz             
+6. [Lácteos] Yogur natural       
+7. [Carnes] Pechuga de pollo     
+8. [Limpieza] Detergente         
+9. [Bebidas] Jugo de naranja     
+----------------------------------
+
+
+
+📝 EJERCICIO 2
+1. Utiliza el modo VISUAL BLOCK para seleccionar la primera letra de todas las líneas.
+2. Utiliza `I` para insertar antes del primer carácter el texto: "cosnt "
+3. Presiona `ESC` para salir de VISUAL BLOCK y aplicar los cambios a todas las líneas
+4. Utiliza el modo VISUAL BLOCK para seleccionar la última letra de todas las líneas.
+5. Utiliza `A` para insertar después del último carácter el texto ";"
+6. Presiona `ESC` para salir de VISUAL BLOCK y aplicar los cambios a todas las líneas
+
+variable = '1'
+variable = '2'
+variable = '3'
+variable = '4'
+variable = '5'
+variable = '6'
+variable = '7'
+

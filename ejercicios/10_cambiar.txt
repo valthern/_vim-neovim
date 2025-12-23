@@ -1,0 +1,101 @@
+📝 EJERCICIO 1: CAMBIAR SELECCIÓN
+1. Utiliza `v` para seleccionar las líneas punteadas.
+2. Utiliza `c` para borrar la selección y entrar en modo insertar.
+3. Completa las frases.
+
+Hola, mi nombre es: _____________, tengo __ años y vivo en ______________.
+Mi canción favorita es: ________________________________________.
+Mi deporte favorito es: ________________________ y se practica en __________________________.
+
+
+
+📝 EJERCICIO 2: CAMBIAR LÍNEA COMPLETA
+1. Utiliza `cc` para cambiar el contenido de toda la línea.
+
+Algún día me gustaría vivir en:
+--> Cambia esta línea por tu respuesta
+
+Si pudiera ser un superhéroe, sería:
+--> Cambia esta línea por tu respuesta
+
+Mi sueño es:
+--> Cambia esta línea por tu respuesta
+
+
+
+📝 EJERCICIO 3: CAMBIAR RESTO DE LÍNEA
+1. Utiliza `C` para eliminar el contenido de cada una de las variables.
+2. No te olvides de poner ';' al final de cada línea.
+
+const nombre: Carlos Arturo;
+const edad: 29;
+const país de origen: México;
+const correo: correo@correo.com;
+const página web: https://www.desarrolloweb.io;
+
+
+
+📝 EJERCICIO 4: CAMBIAR HASTA EL PRIMER CARÁCTER
+1. El código de la siguiente lista de compras está mal
+2. Posiciona el cursor sobre la primera letra de cada producto.
+3. Utiliza `c^` para cambiar hasta el primer carácter
+4. Escribe la etiqueta de apertura que falta '<li>'
+
+<ul>
+	1. Pan</li>
+	2. Leche</li>
+	3. Arroz</li>
+	4. Frutas</li>
+	5. Verduras</li>
+	6. PC GAMING ULTRA INSTINCT: Ryzen 9 7950X3D, RTX 4090, 64 GB DDR5, 2 TB NVMe, fuente 1000W, enfriamiento líquido RGB, gabinete con vidrio templado, monitor 32" 4K 240Hz, teclado mecánico con macros, mouse gamer con 20 botones y soporte para taza.</li>
+</ul>
+
+
+
+📝 EJERCICIO 5: CAMBIAR HASTA EL INICIO DE LA LÍNEA
+1. Posiciona el cursor sobre el '.' de cada línea
+2. Utiliza `c0` para borrar las palabras antes de cada punto
+3. Escribe el número correspondiente (1,2,3,4,etc)
+
+PASO UNO ._________________________
+PASO DOS ._________________________
+PASO TRES ._________________________
+PASO CUATRO ._________________________
+PASO CINCO ._________________________
+PASO SEIS ._________________________
+PASO SIETE ._________________________
+PASO OCHO ._________________________
+PASO NUEVE ._________________________
+
+
+
+📝 EJERCICIO 6: CAMBIAR LÍNEAS
+1. Posiciona el cursor sobre cada una de las líneas enumeradas.
+2. Sigue las instrucciones de cada línea.
+
+Utiliza `cj` para cambiar las siguientes 2 líneas y luego escribe tu nombre
+################################################
+################################################
+
+################################################
+################################################
+Utiliza `ck` para cambiar las anteriores 2 líneas y luego escribe tu apellido
+
+
+
+📝 EJERCICIO 7: CAMBIAR PALABRAS
+Utiliza `cw`, `c2w` y `cW` para seguir las instrucciones de cada línea
+
+Cambia la primera palabra por un animal `cw`: azul perro gato hamster ardilla león
+Cambia las dos primeras palabra por colores `c2w`: perro gato naranja morado rosa 
+Cambia las tres primeras palabras por variables: `c3W`: rojo verde azul $variable_4 $variable_5
+
+
+
+📝 EJERCICIO 8: CAMBIAR PALABRAS
+1. Coloca el cursor sobre el ')' de cada línea
+2. Utiliza `cb`, `c2b` y `c2B` para borrar el contenido dentro de los paréntesis
+
+Cambia la última palabra dentro de los paréntesis por el número correspondiente: (uno dos tres perro)
+Cambia las últimas 2 palabras dentro de los paréntesis por los numeros correspondientes: (uno dos tres cuatro perro gato)
+Cambia las últimas 3 palabras dentro de los paréntesis para continuar la secuencia: (1_uno 2_dos 3_tres 4_cuatro 5_perro 6_gato 7_ratón)

@@ -1,0 +1,46 @@
+📝 EJERCICIO 1
+1. Utiliza `v` para seleccionar el elemento 'pera'.
+2. Utiliza `e` y `l` para incrementar la selección e incluir 'uva'.
+3. Utiliza `o` para cambiar el cursor al inicio de la selección.
+4. Utiliza `b` para incrementar la selección a la izquierda e incluir `manzana`.
+
+const frutas = ['manzana', 'pera', 'uva', 'sandia', 'naranja'];
+
+5. Presiona `ESC` para borrar la selección.
+6. Utiliza `gv` para volver a realizar la última selección.
+7. Utiliza `o` para cambiar el cursor al final de la selección.
+8. Utiliza `f]` para expandir la selección hasta el ' ] '.
+9. Cancela la selección con `ESC`.
+10. Utiliza `vi[` para seleccionar todos los elementos dentro del arreglo.
+
+
+
+📝 EJERCICIO 2
+1. Utiliza `vi(` para seleccionar los parámetros de función
+2. Utiliza `c` para cambiarlos por "parametro_1, parametro_2"
+3. Utiliza `vi{` para seleccionar el cuerpo de la función
+4. Utiliza `d` para borrarlo
+
+function saludo(parametro_1, parametro_2){
+	// ESTA LINEA VA A SER BORRADA
+	// ESTA LINEA TAMBIEN VA A SER BORRADA
+}
+
+
+
+📝 EJERCICIO 3
+1. Utiliza `vap` para seleccionar el siguiente párrafo:
+
+Bajo la lluvia constante de la tarde, el sonido de los pasos sobre el empedrado parecía marcar el ritmo de una historia olvidada.
+Las luces tenues de los faroles apenas iluminaban los rostros que pasaban, todos apurados, todos con secretos.
+En medio de ese vaivén anónimo, alguien se detuvo a mirar el cielo.
+
+2. Utiliza `~` para alternar de mayúsculas a minúsculas.
+3. Utiliza `gv` para volver a realizar la selección.
+4. Utiliza `gu` para cambiar el texto a minúsculas.
+5. Utiliza `gv` para volver a realizar la selección.
+6. Utiliza `gU` para cambiar el texto a mayúsculas.
+7. Utiliza `gv` para volver a realizar la selección.
+8. Utiliza `>` para agregar identado al texto.
+9. Utiliza `gv` para volver a realizar la selección.
+10. Utiliza `<` para eliminar identado al texto.

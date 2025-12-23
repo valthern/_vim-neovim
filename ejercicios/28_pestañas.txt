@@ -1,0 +1,15 @@
+📝 EJERCICIO 1
+NOTA: Asegúrate de abrir este archivo de texto en otro editor para que no pierdas las instrucciones mientras las sigues.
+
+1. Utiliza el comando `:tabnew` para crear una nueva pestaña vacía.
+2. Crea dos ventanas horizontales ejecutando dos veces `Ctrl+w s` o con el comando `:sp`.
+3. (opcional) Abre un archivo en cada ventana. Ejemplo `:e ejercicios/01_terminal.txt`
+4. Utiliza el comando `:tabnew ejercicios/26_uno.txt` para crear una nueva pestaña y abrir el archivo 26_uno.txt.
+5. Crea dos ventanas verticales ejecutando dos veces `Ctrl+w v` o con el comando `:sp`.
+6. (opcional) Abre un archivo en cada ventana. Ejemplo `:e ejercicios/01_terminal.txt`
+7. Utiliza el comando `:tabs` para ver la lista de pestañas.
+8. Utiliza `gt` para cambiar de pestaña.
+9. Utiliza `2gt` para ir a la pestaña número 2.
+10. Utiliza el comando `:tabclose` para cerrar la pestaña actual.
+11. Utiliza `1gt` para ir a la pestaña número 1.
+12. Utiliza el comando `:tabonly` para cerrar todas las pestañas excepto la actual.
