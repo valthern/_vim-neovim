@@ -93,3 +93,4 @@ cuestionando la percepción y el control sobre la mente.
 2. Borra la marca A y B
 3. Borra las marcas locales a-z
 4. Borra las marcas locales 1-9
+.
