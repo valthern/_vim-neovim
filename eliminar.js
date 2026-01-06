@@ -1,1 +1,1 @@
-	const amigos = ['carlos-arturo', 'manuel-gonzalez', 'teresita-hernandez'];
+	const nombres = ['carlos-arturo', 'manuel-gonzalez', 'teresita-hernandez'];
