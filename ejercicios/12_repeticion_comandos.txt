@@ -5,12 +5,12 @@
 4. Repite el último comando con `.`
 5. Baja y repite el comando para el resto de los elementos.
 
-[José Ramírez] jose.ramirez@correo.com
-[Teresita Palacios] teresita.palacios@correo.com
-[Lucía Torres] lucia.torres@correo.com
-[Andrés Pérez] andres.perez@correo.com
-[Valeria Soto] valeria.soto@correo.com
-[Diego Martínez] diego.martinez@correo.com
+ jose.ramirez@correo.com
+ teresita.palacios@correo.com
+ lucia.torres@correo.com
+ andres.perez@correo.com
+ valeria.soto@correo.com
+ diego.martinez@correo.com
 
 
 
@@ -22,9 +22,9 @@
 5. Repite el último comando con `.`
 6. Baja y repite el comando para el resto de los elementos.
 
-[ORDEN]: 123-456-789 (EN PROCESO)
-[ORDEN]: 987-654-321 (PENDIENTE)
-[ORDEN]: 456-789-123 (EN PROCESO)
-[ORDEN]: 321-654-987 (PENDIENTE)
-[ORDEN]: 159-753-486 (EN PROCESO)
-[ORDEN]: 741-852-963 (RETRASADO)
+[ORDEN]: 123-456-789 (COMPLETADO)
+[ORDEN]: 987-654-321 (COMPLETADO)
+[ORDEN]: 456-789-123 (COMPLETADO)
+[ORDEN]: 321-654-987 (COMPLETADO)
+[ORDEN]: 159-753-486 (COMPLETADO)
+[ORDEN]: 741-852-963 (COMPLETADO)
