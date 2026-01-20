@@ -1,5 +1,7 @@
 📝 EJERCICIO
 1. Escribe tres líneas de texto que digan: Uno, Dos, Tres y Cuatro
+Uno 
+Tres
 2. Elimina la línea "Dos" usando dd.
 3. Elimina la línea "Cuatro" usando dd.
 3. Ahora presiona u para deshacer los cambios.

@@ -1,8 +1,8 @@
 📝 EJERCICIO 1: REMPLAZAR 1 CARÁCTER
 Utiliza `r` para remplazar los símbolos ' _ ' y corregir el texto.
 
-"L_ v_da es aquello q_e te p_sa mient_as estás oc_pado haci_ndo otr_s pl_nes." – John Lennon
-"E_ que n_ con_ce su hist_ria está cond_nado a repet_rla." – George Santayana
+"La vida es aquello que te pasa mientras estás ocupado haciendo otros planes." – John Lennon
+"El que no conoce su historia está condenado a repetirla." – George Santayana
 
 
 
@@ -10,8 +10,8 @@ Utiliza `r` para remplazar los símbolos ' _ ' y corregir el texto.
 1. Utiliza el modo visual para seleccionar las palabras que se encuentren en mayúsculas
 2. Utiliza `r` para remplazar los datos confidenciales por símbolos ' * '
 
-El AGENTE RAMÍREZ llegó a BUDAPEST con una nueva identidad proporcionada por la división ORION. 
-Su misión era interceptar el maletín que contenía los planos del proyecto CENTELLA, custodiado por el coronel VIKTOR HARGREAVES.
-Antes del amanecer del 14 de noviembre, debía reunirse con el contacto conocido como SOMBRA AZUL, utilizando la frase clave: “LAS CIGÜEÑAS VUELAN AL SUR”.
+El ************** llegó a ******** con una nueva identidad proporcionada por la división *****. 
+Su misión era interceptar el maletín que contenía los planos del proyecto ********, custodiado por el coronel *****************.
+Antes del amanecer del 14 de noviembre, debía reunirse con el contacto conocido como ***********, utilizando la frase clave: “**************************”.
 
 
