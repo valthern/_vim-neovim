@@ -2,7 +2,7 @@
 1. Utiliza `yiw` para copiar: Manzanas.
 2. Pega el contenido copiado dentro de los paréntesis.
 
-Mi fruta favorita son las () y las uvas.
+Mi fruta favorita son las (Manzanas) y las uvas.
 
 
 
@@ -10,7 +10,7 @@ Mi fruta favorita son las () y las uvas.
 1. Utiliza `yi(` para copiar el contenido dentro de los paréntesis: (salir a caminar).
 2. Pega el contenido copiado dentro de los paréntesis.
 
-Los fines de semana me gusta () y ver películas.
+Los fines de semana me gusta (salir a caminar) y ver películas.
 
 
 
@@ -18,7 +18,7 @@ Los fines de semana me gusta () y ver películas.
 1. Utiliza `yi"` para copiar el contenido dentro de las comillas: "Top Gun"
 2. Pega el contenido copiado dentro de los paréntesis
 
-Mis películas favoritas son Interestellar y ().
+Mis películas favoritas son Interestellar y (Top Gun).
 
 
 
@@ -29,6 +29,16 @@ Mis películas favoritas son Interestellar y ().
 
 2. Utiliza `10p` para pegarla 10 veces debajo de esta línea
 
+### VIM ES INCREÍBLE ###
+### VIM ES INCREÍBLE ###
+### VIM ES INCREÍBLE ###
+### VIM ES INCREÍBLE ###
+### VIM ES INCREÍBLE ###
+### VIM ES INCREÍBLE ###
+### VIM ES INCREÍBLE ###
+### VIM ES INCREÍBLE ###
+### VIM ES INCREÍBLE ###
+### VIM ES INCREÍBLE ###
 
 
 📝 EJERCICIO 5
@@ -39,9 +49,9 @@ Mis películas favoritas son Interestellar y ().
 2. "VIM ES RÁPIDO"
 3. "VIM ES COOL"
 
-MENSAJE 1: 
-MENSAJE 2: 
-MENSAJE 3: 
+MENSAJE 1: "VIM ES FÁCIL"
+MENSAJE 2: "VIM ES RÁPIDO"
+MENSAJE 3: "VIM ES COOL"
 
 
 
@@ -51,6 +61,7 @@ Hola, mi nombre es Carlos, me gusta VIM
 
 2. Utiliza `P` para pega la línea antes de la línea punteada
 
+Hola, mi nombre es Carlos, me gusta VIM
 ---------------------------------------
 
 
@@ -66,12 +77,17 @@ LÍNEA 5
 
 2. Pega las líneas copiadas debajo:
 
+LÍNEA 1
+LÍNEA 2
+LÍNEA 3
+LÍNEA 4
+LÍNEA 5
 
 
 📝 EJERCICIO 8
 1. Por cada línea utiliza `dt` para borrar la primera frase.
 2. Pega la frase borrada al final de cada mensaje.
 
-Mi nombre es Carlos - ¿Cuál es tu nombre?: 
-Tengo 29 años . ¿Cuál es tu edad?: 
-NEOVIM # ¿Cuál es tu editor de código favorito?
+- ¿Cuál es tu nombre?: Mi nombre es Carlos 
+. ¿Cuál es tu edad?: Tengo 29 años 
+# ¿Cuál es tu editor de código favorito? NEOVIM 
