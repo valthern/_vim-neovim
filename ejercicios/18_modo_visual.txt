@@ -22,8 +22,6 @@ const frutas = ['manzana', 'pera', 'uva', 'sandia', 'naranja'];
 4. Utiliza `d` para borrarlo
 
 function saludo(parametro_1, parametro_2){
-	// ESTA LINEA VA A SER BORRADA
-	// ESTA LINEA TAMBIEN VA A SER BORRADA
 }
 
 
@@ -31,9 +29,9 @@ function saludo(parametro_1, parametro_2){
 📝 EJERCICIO 3
 1. Utiliza `vap` para seleccionar el siguiente párrafo:
 
-Bajo la lluvia constante de la tarde, el sonido de los pasos sobre el empedrado parecía marcar el ritmo de una historia olvidada.
-Las luces tenues de los faroles apenas iluminaban los rostros que pasaban, todos apurados, todos con secretos.
-En medio de ese vaivén anónimo, alguien se detuvo a mirar el cielo.
+BAJO LA LLUVIA CONSTANTE DE LA TARDE, EL SONIDO DE LOS PASOS SOBRE EL EMPEDRADO PARECÍA MARCAR EL RITMO DE UNA HISTORIA OLVIDADA.
+LAS LUCES TENUES DE LOS FAROLES APENAS ILUMINABAN LOS ROSTROS QUE PASABAN, TODOS APURADOS, TODOS CON SECRETOS.
+EN MEDIO DE ESE VAIVÉN ANÓNIMO, ALGUIEN SE DETUVO A MIRAR EL CIELO.
 
 2. Utiliza `~` para alternar de mayúsculas a minúsculas.
 3. Utiliza `gv` para volver a realizar la selección.
