@@ -2,13 +2,13 @@
 1. Utiliza el modo VISUAL LINE para seleccionar las 3 líneas de código
 2. Borra las líneas seleccionadas utilizando `d`
 
-<div>
-	<h1>HOLA MUNDO</h1>
-</div>
 
 3. Pega las etiquetas que borraste dentro de la etiqueta <main>
 
 <main>
+	<div>
+		<h1>HOLA MUNDO</h1>
+	</div>
 </main>
 
 3. Utiliza el modo VISUAL LINE para seleccionar el bloque de código que acabas de pegar.
@@ -22,9 +22,8 @@
 3. Utiliza `p` para pegar la caja antes que las demás.
 4. Repite el proceso y ordena las cajas del 1 al 4
 
-
 -----------
-| CAJA 4: |
+| CAJA 1: |
 -----------
 
 -----------
@@ -32,11 +31,10 @@
 -----------
 
 -----------
-| CAJA 1: |
------------
-
------------
 | CAJA 3: |
 -----------
 
+-----------
+| CAJA 4: |
+-----------
 
