@@ -8,15 +8,15 @@
 
 LISTA DE COMPRAS:
 ----------------------------------
-1. [Farmacia] Aspirinas          
-2. [Refrigeradores] Leche        
-3. [Frutas y Verduras] Plátanos  
-4. [Panadería] Pan integral      
-5. [Abarrotes] Arroz             
-6. [Lácteos] Yogur natural       
-7. [Carnes] Pechuga de pollo     
-8. [Limpieza] Detergente         
-9. [Bebidas] Jugo de naranja     
+- [x][Farmacia] Aspirinas          
+- [x][Refrigeradores] Leche        
+- [x][Frutas y Verduras] Plátanos  
+- [x][Panadería] Pan integral      
+- [x][Abarrotes] Arroz             
+- [x][Lácteos] Yogur natural       
+- [x][Carnes] Pechuga de pollo     
+- [x][Limpieza] Detergente         
+- [x][Bebidas] Jugo de naranja     
 ----------------------------------
 
 
@@ -29,11 +29,11 @@ LISTA DE COMPRAS:
 5. Utiliza `A` para insertar después del último carácter el texto ";"
 6. Presiona `ESC` para salir de VISUAL BLOCK y aplicar los cambios a todas las líneas
 
-variable = '1'
-variable = '2'
-variable = '3'
-variable = '4'
-variable = '5'
-variable = '6'
-variable = '7'
+const variable = '1';
+const variable = '2';
+const variable = '3';
+const variable = '4';
+const variable = '5';
+const variable = '6';
+const variable = '7';
 
