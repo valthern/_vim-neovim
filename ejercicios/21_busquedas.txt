@@ -7,23 +7,23 @@
 
 ---
 # CUENTO:
-Había una vez un programador llamado Batman que trabajaba en una pequeña empresa de desarrollo web. Aunque todos sus compañeros usaban editores modernos con muchos botones y colores, él prefería algo distinto.
-Desde que descubrió perro, su productividad dio un giro radical. Con tan solo unas teclas, podía hacer en segundos lo que antes le tomaba minutos.
+Había una vez un programador llamado Omar que trabajaba en una pequeña empresa de desarrollo web. Aunque todos sus compañeros usaban editores modernos con muchos botones y colores, él prefería algo distinto.
+Desde que descubrió vim, su productividad dio un giro radical. Con tan solo unas teclas, podía hacer en segundos lo que antes le tomaba minutos.
 Pronto, su entorno de trabajo se volvió una danza entre modos, comandos y movimientos precisos.
 
-Un día, su mentor le habló de gato, una versión mejorada y más moderna de perro. Intrigado, Batman decidió probarlo.
-Instaló gato y se sorprendió al ver que todos sus atajos favoritos seguían funcionando, pero ahora podía integrar fácilmente complementos en Lua, usar LSPs y hasta ver sugerencias en tiempo real.
+Un día, su mentor le habló de neovim, una versión mejorada y más moderna de vim. Intrigado, Omar decidió probarlo.
+Instaló neovim y se sorprendió al ver que todos sus atajos favoritos seguían funcionando, pero ahora podía integrar fácilmente complementos en Lua, usar LSPs y hasta ver sugerencias en tiempo real.
 Fue como descubrir que su vieja bicicleta ahora tenía motor.
 
 Poco a poco, empezó a personalizar su configuración. Escribía su propio init.lua, integraba árboles de archivos, autocompletado, inteligente y temas que hacían su pantalla más agradable.
-Mientras otros luchaban con editores pesados, Batman fluía como el agua entre líneas de código.
-Sus compañeros empezaron a notar que, sin usar el mouse, él editaba, guardaba y buscaba errores con una velocidad impresionante gracias a perro y gato.
+Mientras otros luchaban con editores pesados, Omar fluía como el agua entre líneas de código.
+Sus compañeros empezaron a notar que, sin usar el mouse, él editaba, guardaba y buscaba errores con una velocidad impresionante gracias a vim y neovim.
 Un día, durante una junta, el jefe le pidió que enseñara su flujo de trabajo.
-Batman proyectó su terminal, y los demás observaron con asombro cómo navegaba entre archivos, buscaba funciones y corregía errores usando solo comandos de gato.
+Omar proyectó su terminal, y los demás observaron con asombro cómo navegaba entre archivos, buscaba funciones y corregía errores usando solo comandos de neovim.
 Cuando terminó, todos querían una copia de su configuración. Sonrió y les pasó un enlace a su repositorio.
 Desde entonces, en esa oficina, comenzaron a escucharse los ecos de teclas rápidas y silenciosas.
-Algunos aún preferían interfaces gráficas, pero muchos descubrieron el poder de perro y gato.
-Y Batman, satisfecho, seguía programando como siempre: sin distracciones, sin ratón… solo él y su teclado.
+Algunos aún preferían interfaces gráficas, pero muchos descubrieron el poder de vim y neovim.
+Y Omar, satisfecho, seguía programando como siempre: sin distracciones, sin ratón… solo él y su teclado.
 
 FIN.
 ---
