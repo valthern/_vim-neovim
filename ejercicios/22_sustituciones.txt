@@ -1,27 +1,27 @@
 📝 EJERCICIO 1: SUSTITUIR TEXTO EN UNA LÍNEA
 1.Utiliza el comando `:s` para sustituir todas las ocurrencias de la palabra "user" por "usuario"
-SELECT user_id, user_nombre, user_correo, user_pais, user_edad FROM usuario;
+SELECT usuario_id, usuario_nombre, usuario_correo, usuario_pais, usuario_edad FROM usuario;
 
 2. Utiliza el comando `:s` para cambiar todas las ocurrencias de la palabra "boton" por "btn"
-<button class="boton boton-primario boton-grande">Este es un botón</button>
+<button class="btn btn-primario btn-grande">Este es un botón</button>
 
 
 📝 EJERCICIO 2: SUSTITUIR EN TODO EL DOCUMENTO
-Utiliza `:%s` para cambiar la palabra "propiedad_1" por "nombre" y "propiedad_2" por "correo" en todo el documento.
+Utiliza `:%s` para cambiar la palabra "nombre" por "nombre" y "correo" por "correo" en todo el documento.
 
 const usuario1 = {
-	propiedad_1: 'Carlos',
-	propiedad_2: 'correo@correo.com'
+	nombre: 'Carlos',
+	correo: 'correo@correo.com'
 }
 
 const usuario2 = {
-	propiedad_1: 'Alejandro',
-	propiedad_2: 'alejandro@correo.com'
+	nombre: 'Alejandro',
+	correo: 'alejandro@correo.com'
 }
 
 const usuario3 = {
-	propiedad_1: 'Manuel',
-	propiedad_2: 'manuel@correo.com'
+	nombre: 'Manuel',
+	correo: 'manuel@correo.com'
 }
 
 
@@ -32,9 +32,9 @@ const usuario3 = {
 3. Salta la sustitución del nombre de la función "obtener_datos" y la invocación "obtener_datos()".
 
 function async obtener_datos(){
-	const datos = await fetch('https://www...');
-	if(datos.status === 'OK' && respuesta.code === 200){
-		return(datos.body);
+	const respuesta = await fetch('https://www...');
+	if(respuesta.status === 'OK' && respuesta.code === 200){
+		return(respuesta.body);
 	}
 }
 obtener_datos();
