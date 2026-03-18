@@ -1,13 +1,13 @@
 📝 EJERCICIO 1
 1. Utiliza `dd` para borrar la siguiente línea:
 
--SOY UNA LÍNEA DE TEXTO QUE VA A SER BORRADA-
 
 2. Utiliza el comando `:reg` para ver en que registros se guardó.
 3. Utiliza el comando `:reg "` para verificar su contenido.
 4. Utiliza `"0p` para pegar el contenido del register "0 entre las líneas punteadas:
 
 -----------------------------
+Texto copiado
 
 -----------------------------
 
@@ -21,6 +21,7 @@
 4. Utiliza `"0p` para pegar el contenido del register "0 entre las líneas punteadas:
 
 -----------------------------
+-SOY UNA LÍNEA DE TEXTO QUE VA A SER COPIADA-
 
 -----------------------------
 
@@ -29,6 +30,11 @@
 📝 EJERCICIO 3
 1. Utiliza `dd` para borrar línea por línea de la siguiente lista:
 
+
+2. Utiliza el comando `:reg` para ver en que registers se guardaron los textos.
+3. Utiliza los registers `"9p` al `"1p` para pegar las líneas borradas entre las líneas punteadas:
+
+-----------------------------
 TEXTO UNO
 TEXTO DOS
 TEXTO TRES
@@ -38,11 +44,6 @@ TEXTO SEIS
 TEXTO SIETE
 TEXTO OCHO
 TEXTO NUEVE
-
-2. Utiliza el comando `:reg` para ver en que registers se guardaron los textos.
-3. Utiliza los registers `"9p` al `"1p` para pegar las líneas borradas entre las líneas punteadas:
-
------------------------------
 
 -----------------------------
 
@@ -54,7 +55,14 @@ TEXTO NUEVE
 3. Utiliza `"*p` para pegar el contenido del portapapeles dentro de las líneas punteadas:
 
 -----------------------------
-
+ Titulo: EL GRAN LIBRO DE ANDROID - 9ª Edición
+Autor (es): TOMÁS GIRONÉS Jesús ; LLORET MAURI, Jaime
+Área del conocimiento: TICs y Computación
+ISBN: 9788426734655
+Número de Edición: 9
+Año de Edición: 2022
+Cantidad de Páginas: 603
+Editorial: Alfaomega, Marcombo 
 -----------------------------
 
 
@@ -72,6 +80,9 @@ $variable_3 = 'tres';
 5. Utiliza `"ap`, `"bp` y `"cp` para pegar el contenido de los register "a", "b" y "c" dentro de las líneas punteadas:
 
 -----------------------------
+$variable_1 = 'uno';
+$variable_2 = 'dos';
+$variable_3 = 'tres';
 
 -----------------------------
 
