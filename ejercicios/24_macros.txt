@@ -12,6 +12,14 @@
 10. Utiliza `5@a` para ejecutar el macro 5 veces.
 
 ---------------------------
+Hola Mundo
+Hola Mundo
+Hola Mundo
+Hola Mundo
+Hola Mundo
+Hola Mundo
+Hola Mundo
+Hola Mundo
 
 ---------------------------
 
@@ -31,16 +39,16 @@ Elimina la frase entre paréntesis de cada línea
 9. Aplica el macro recién grabado al rango de líneas 35 a 43 con el comando `:35,43normal @b`
 
 ------------------------------------------------------------------------
-El cielo estaba despejado (sin una sola nube) durante toda la tarde.
-Caminamos por el bosque (con mucho cuidado) para no perdernos.
-La reunión fue cancelada (por falta de quorum) a último momento.
-Compré pan, leche y (sin pensarlo mucho) un pastel de chocolate.
-Me contó toda la historia (aunque no quería) sin omitir detalles.
-Nos encontramos (casi de milagro) en la estación central.
-El libro estaba viejo (pero bien conservado) y lleno de anotaciones.
-Le pidió disculpas (de corazón) por lo que había dicho.
-La película (que ya habíamos visto) nos volvió a emocionar.
-Salimos temprano (para evitar el tráfico) y llegamos sin contratiempos.
+El cielo estaba despejado durante toda la tarde.
+Caminamos por el bosque para no perdernos.
+La reunión fue cancelada a último momento.
+Compré pan, leche y un pastel de chocolate.
+Me contó toda la historia sin omitir detalles.
+Nos encontramos en la estación central.
+El libro estaba viejo y lleno de anotaciones.
+Le pidió disculpas por lo que había dicho.
+La película nos volvió a emocionar.
+Salimos temprano y llegamos sin contratiempos.
 ------------------------------------------------------------------------
 
 
@@ -56,7 +64,7 @@ Salimos temprano (para evitar el tráfico) y llegamos sin contratiempos.
 8. Ejecuta el macro con `@c` para cambiar el siguiente nombre.
 9. Utiliza `@@` para ejecutar el último macro para el resto de elementos.
 
-const nombres = ['JuAn', 'MARía', 'PeDro', 'lUIsA', 'ROsa', 'AnDrÉs', 'caRLos', 'BeaTrIz', 'eRiCk', 'ARmANdo'];
+const nombres = ['JuAn', 'MARía', 'PeDro', 'LUIsA', 'ROsa', 'AnDrÉs', 'CaRLos', 'BeaTrIz', 'ERiCk', 'ARmANdo'];
 
 
 
@@ -81,17 +89,17 @@ const nombres = ['JuAn', 'MARía', 'PeDro', 'lUIsA', 'ROsa', 'AnDrÉs', 'caRLos'
 17. Ejecuta el macro para las siguientes 3 líneas con `3@d`
 
 ------
-HEADER
-MAIN
-DIV
-FOOTER
+<HEADER></HEADER>
+<MAIN></MAIN>
+<DIV></DIV>
+<FOOTER></FOOTER>
 ------
 
 
 
 📝 EJERCICIO 5: EDITAR UN MACRO
 1. Utiliza `"dp` para pegar el macro "d en la siguiente línea:
-
+gUUi<lyiwA></pa>0
 
 2. Utiliza `I` para cambiar al modo INSERTAR al inicio de la línea.
 3. Escribe "gUU" para agregar el cambio de mayúsculas al inicio del macro.
@@ -101,10 +109,10 @@ FOOTER
 7. Ejecuta el macro 4 veces con `4@d`
 
 ------
-header
-main
-div
-footer
+<HEADER></HEADER>
+<MAIN></MAIN>
+<DIV></DIV>
+<FOOTER></FOOTER>
 ------
 
 
